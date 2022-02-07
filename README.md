@@ -18,12 +18,7 @@ I am currently interested in **Front-end**, Web and I follow it.
 ![image](https://img.shields.io/badge/-git-D5174E?logo=git&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-npm-B04E0F?logo=npm&logoColor=white&style=for-the-badge)
 
-
+![snake gif](https://github.com/EhsanShahbazii/EhsanShahbazii/blob/output/github-contribution-grid-snake.svg)
 
 ## My contribution graph
 [![My contribution graph](https://activity-graph.herokuapp.com/graph?username=EhsanShahbazii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Snake eating my contribution graph
-![snake gif](https://github.com/EhsanShahbazii/EhsanShahbazii/blob/output/github-contribution-grid-snake.svg)
-
-
