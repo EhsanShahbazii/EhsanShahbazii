@@ -5,6 +5,8 @@ I'm a computer engineering student:man_technologist: at **Tabriz University**:sc
 🌱 I’m currently learning **React.js:rocket:**.<br>
 I am currently interested in **Front-end**, Web and I follow it.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanShahbazii&theme=algolia&show_icons=true)
+
 ![image](https://img.shields.io/badge/-html-03719C?logo=html5&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-css-9900FA?logo=css3&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-sass-FEB2D0?logo=sass&logoColor=white&style=for-the-badge)
@@ -20,5 +22,4 @@ I am currently interested in **Front-end**, Web and I follow it.
 
 ![snake gif](https://github.com/EhsanShahbazii/EhsanShahbazii/blob/output/github-contribution-grid-snake.svg)
 
-## My contribution graph
 [![My contribution graph](https://activity-graph.herokuapp.com/graph?username=EhsanShahbazii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
