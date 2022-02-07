@@ -6,4 +6,4 @@ I'm a computer engineering student:man_technologist: at **Tabriz University**:sc
 I am currently interested in **Front-end**, Web and I follow it.
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/EhsanShahbazii/EhsanShahbazii/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/EhsanShahbazii/EhsanShahbazii/blob/output/github-contribution-grid-snake.svg)
