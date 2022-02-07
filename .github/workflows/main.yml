@@ -1,2 +1,9 @@
 - name: generate-snake-game-from-github-contribution-grid
+  # You may pin to the exact commit or the version.
+  # uses: Platane/snk@335757dc9db4e3499a229702a8f517ea310f9352
   uses: Platane/snk@v0.0.18
+  with:
+    # github user name
+    github_user_name: 
+    # path of the generated gif
+    gif_out_path: # optional, default is ./github-contribution-grid-snake.gif
