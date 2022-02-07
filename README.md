@@ -7,3 +7,7 @@ I am currently interested in **Front-end**, Web and I follow it.
 
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/EhsanShahbazii/EhsanShahbazii/blob/output/github-contribution-grid-snake.svg)
+
+## My contribution graph
+
+[![My contribution graph](https://activity-graph.herokuapp.com/graph?username=EhsanShahbazii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
