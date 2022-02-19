@@ -4,13 +4,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanShahbazii&show_icons=true&theme=algolia&hide_border=true&border_radius=20)
 ### :man_technologist:Language and tools:
 ![image](https://img.shields.io/badge/-JavaScript-FFC513?logo=javascript&logoColor=white&style=for-the-badge)
-![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-sass-FEB2D0?logo=sass&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-materialUi-5D21D0?logo=materialUi&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-java-E17701?logo=java&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-javafx-0E87CC?logo=javafx&logoColor=white&style=for-the-badge)
-![image](https://img.shields.io/badge/-git-D5174E?logo=git&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-mysql-0E87CC?logo=mysql&logoColor=white&style=for-the-badge)
+![image](https://img.shields.io/badge/-git-D5174E?logo=git&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-npm-B04E0F?logo=npm&logoColor=white&style=for-the-badge)
 
 ## :man_mechanic:I am currently working on these projects:
