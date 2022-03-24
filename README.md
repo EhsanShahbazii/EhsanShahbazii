@@ -13,7 +13,7 @@
 
 ## :man_mechanic:I am currently working on these projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanShahbazii&repo=Me-You-shop-app&theme=algolia&border_radius=20&hide_border=true)](https://github.com/EhsanShahbazii/Me-You-shop-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanShahbazii&repo=Net-Film&theme=algolia&border_radius=20&hide_border=true)](https://github.com/EhsanShahbazii/Net-Film)
+
 
 ## :chart_with_upwards_trend:My contribution graph:
 [![My contribution graph](https://activity-graph.herokuapp.com/graph?username=EhsanShahbazii&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
