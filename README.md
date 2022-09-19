@@ -1,3 +1,4 @@
+درس این زندگی از بهر ندانستن ماست / این همه درس بخوانیم و ندانیم که چه
 ## Links
 - #### CodePen: [@EhsanShahbazii](https://codepen.io/ehsanshahbazii)
 - #### Quera: [احسان شهبازی](https://quera.org/profile/Ehsan_Shahbazi)
