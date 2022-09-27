@@ -15,12 +15,14 @@ const MyInformation = {
     currentJob: "Front-End Developer",
     education: "Computer Engineering Tabriz_University.",
     skillsIn: "Java, C++, Python, Js, ReactJs & Django ...",
-    enjoyWith: "Books, GYM, Music, Movie, Black Hole, Codes, Algorithms & Geometry."
+    enjoyWith: "Books, GYM, Music, Movie, Black Hole, Codes, Algorithms & Geometry.",
+    socialMedia: "GitHub, Codepen, LinkedIn, Instagram, Telegram, Twitter, WhatsApp, StackOverFlow"
   },
 };
 ```
-CodePen: [@EhsanShahbazii](https://codepen.io/ehsanshahbazii)
+CodePen: [EhsanShahbazii](https://codepen.io/ehsanshahbazii)
 Quera: [احسان شهبازی](https://quera.org/profile/Ehsan_Shahbazi)
+StackOverFlow: [Ehsan](https://stackoverflow.com/users/20102950/ehsan)
 LinkedIn: [Ehsan Shahbazi](https://www.linkedin.com/in/ehsan-shahbazi-848206225)
 Instagram: [Khasaw_ehsan](https://www.instagram.com/khasaw_ehsan)
 Telegram: [1281ms](https://t.me/Shahbazi_Ehsan)
