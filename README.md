@@ -15,6 +15,7 @@ const MyInformation = {
     currentJob: "Front-End Developer",
     education: "Computer Engineering Tabriz_University.",
     skillsIn: "Java, C++, Python, Js, ReactJs ...",
+    lovelyLib: "Three.js",
     enjoyWith: "Books, GYM, Music, Movie, Black Hole, Codes, Algorithms & Geometry.",
     socialMedia: "GitHub, Codepen, StackOverFlow, LinkedIn, Twitter, Instagram, Telegram, WhatsApp"
   },
