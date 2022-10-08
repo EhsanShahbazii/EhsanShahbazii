@@ -16,7 +16,7 @@ const MyInformation = {
     skillsIn: "Java, C++, Python, Java Script, ReactJs ...",
     lovelyLib: "Three.js",
     enjoyWith: "Books, GYM, Music, Movie, Black Hole, Codes, Algorithms & Geometry.",
-    socialMedia: "GitHub, Codepen, StackOverFlow, LinkedIn, Twitter, Instagram, Telegram, WhatsApp"
+    socialMedia: "GitHub, Codepen, StackOverFlow, LinkedIn, Telegram"
   },
 };
 ```
