@@ -1,4 +1,5 @@
 
+![](7301785.jpg)
 ```JavaScript
 const MyInformation = {
   status: 200,
