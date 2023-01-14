@@ -1,5 +1,5 @@
 
-![](16-7.webp)
+![](1.jpg)
 ```JavaScript
 const MyInformation = {
   status: 200,
