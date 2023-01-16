@@ -1,5 +1,5 @@
 
-![](1.jpg)
+![](https://github.com/EhsanShahbazii/wallpapers-for-lovers/blob/main/Cyberpunk%20Edgerunners/Preview/cyberpunk-1920x1080-6.jpg)
 ```JavaScript
 const MyInformation = {
   status: 200,
