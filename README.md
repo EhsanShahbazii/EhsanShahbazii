@@ -1,5 +1,5 @@
 
-![](https://github.com/EhsanShahbazii/wallpapers-for-lovers/blob/main/Cyberpunk%20Edgerunners/Preview/cyberpunk-1920x1080-12.jpg?raw=true)
+![](https://github.com/EhsanShahbazii/wallpapers-for-lovers/blob/main/Cyberpunk%20Edgerunners/Preview/cyberpunk-1920x1080-5.jpg?raw=true)
 ```JavaScript
 const MyInformation = {
   status: 200,
