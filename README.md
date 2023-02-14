@@ -1,6 +1,3 @@
-
-![img](https://ehsan.storage.iran.liara.space/public-file/pictures/w11.jpg)
-
 ```JavaScript
 const MyInformation = {
   status: 200,
