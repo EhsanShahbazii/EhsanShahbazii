@@ -1,5 +1,5 @@
 ```JavaScript
-const Data = {
+const response = {
   status: 404,
   date: 2023/2/14,
   message: "If you don't fight, you are a loser."
