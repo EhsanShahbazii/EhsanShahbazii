@@ -1,7 +1,6 @@
 ```math
 Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
 ```
-
 ```JavaScript
 const response = {
   status: 404,
@@ -9,7 +8,6 @@ const response = {
   message: "If you don't fight, you are a loser."
 };
 ```
-
 [![Quera](https://img.shields.io/badge/quera-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://quera.org/profile/Ehsan_Shahbazi)
 [![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/L4st_Surviv0r) 
 [![CodePen](https://img.shields.io/badge/codepen-%2320232a.svg?style=for-the-badge&logo=codepen&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://codepen.io/ehsanshahbazii) 
