@@ -3,8 +3,13 @@ Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\p
 ```
 ```JavaScript
 const response = {
-  status: 404,
-  date: 2023/2/14,
+  status: 202,
+  data: {
+    name: "Ehsan Shahbazi",
+    birthDay: "21 Jan",
+    skills: "Java, JS, React, node, ...",
+    university: "CE Tabriz",
+  },
   message: "If you don't fight, you are a loser."
 };
 ```
