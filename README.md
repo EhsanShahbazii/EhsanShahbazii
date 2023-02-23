@@ -1,3 +1,7 @@
+```math
+Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
+```
+
 ```JavaScript
 const response = {
   status: 404,
