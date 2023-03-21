@@ -10,8 +10,7 @@ const response = {
     birthDay: "21 Jan",
     skills: "Java, JS, React, node, ...",
     university: "CE Tabriz",
-  },
-  message: "If you don't fight, you are a loser."
+  }
 };
 ```
 [![Quera](https://img.shields.io/badge/quera-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://quera.org/profile/Ehsan_Shahbazi)
