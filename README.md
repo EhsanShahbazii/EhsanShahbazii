@@ -8,8 +8,9 @@ const response = {
     name: "Ehsan Shahbazi",
     nickname: "</Ctrl+Z>",
     birthDay: "21 Jan",
-    skills: "js & py",
+    skills: ".java, .py, .js",
     university: "CE Tabriz",
+    hobbies: "coding, scraping, AI"
   }
 };
 ```
