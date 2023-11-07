@@ -13,7 +13,8 @@ const response = {
     birthDay: "21 Jan",
     skills: ".java, .py, .js",
     university: "CE Tabriz",
-    hobbies: "coding, scraping, AI"
+    hobbies: "coding, scraping, AI",
+    quote: "بهترین منظره ها بعد از سخت ترین پیمایش ها دیده می شوند"
   }
 };
 ```
