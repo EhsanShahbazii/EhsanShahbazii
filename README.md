@@ -15,7 +15,8 @@ const response = {
     hobbies: ["books", "cycling", "podcast", "boxing", "music"],
     programmingLanguages: [".js(7x)", ".java(6x)", ".py(4x)", ".cpp(1x)"],
     telegramChannels: ["@ehsandevv", "@JustCoffeeAndMe", "@gymppp"],
-    tryThisAtHome: "sudo rm -rf /",
+    weirdFact: "Everyone can work for 12 hours, but not everyone can study for 12 hours.",
+    tryThisAtHome: "sudo rm -rf /"
   },
   aliveTime: 189216000
 };
