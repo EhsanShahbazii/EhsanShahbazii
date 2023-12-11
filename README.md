@@ -15,6 +15,7 @@ const response = {
     hobbies: ["books", "cycling", "podcast", "boxing", "music"],
     programmingLanguages: [".js(7x)", ".java(6x)", ".py(4x)", ".cpp(1x)"],
     telegramChannels: ["@ehsandevv", "@JustCoffeeAndMe", "@gymppp"],
+    tryThisAtHome: "sudo rm -rf /",
   },
   aliveTime: 189216000
 };
