@@ -8,13 +8,15 @@ Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\p
 const response = {
   status: 202,
   data: {
-    name: "Ehsan Shahbazi",
-    birthDay: "21 Jan",
-    skills: ".java, .py, .js",
-    university: "CE Tabriz",
-    hobbies: "coding, scraping, AI",
-    quote: "بهترین منظره ها بعد از سخت ترین پیمایش ها دیده می شوند"
-  }
+    fullName: "Ehsan Shahbazi",
+    birthDay: "2002 January 21, Monday",
+    university: "Computer Engineering Tabriz",
+    email: "ehsan.shahbazipc@gmail.com",
+    hobbies: ["books", "cycling", "podcast", "boxing", "music"],
+    programmingLanguages: [".js(7x)", ".java(6x)", ".py(4x)", ".cpp(1x)"],
+    telegramChannels: ["@ehsandevv", "@JustCoffeeAndMe", "@gymppp"],
+  },
+  aliveTime: 189216000
 };
 ```
 [![Quera](https://img.shields.io/badge/quera-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://quera.org/profile/Ehsan_Shahbazi)
@@ -24,7 +26,7 @@ const response = {
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
 
-![Readme Quotes Ehsan Shahbazi](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
+<!-- ![Readme Quotes Ehsan Shahbazi](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin) -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanshahbazii&show_icons=true&locale=en" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanshahbazii" /></p> -->
