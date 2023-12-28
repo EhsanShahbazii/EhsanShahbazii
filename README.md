@@ -11,12 +11,7 @@ const response = {
     fullName: "Ehsan Shahbazi",
     birthDay: "2002 January 21, Monday",
     university: "Computer Engineering Tabriz",
-    email: "ehsan.shahbazipc@gmail.com",
-    hobbies: ["books", "cycling", "podcast", "boxing", "music"],
-    programmingLanguages: [".js(7x)", ".java(6x)", ".py(4x)", ".cpp(1x)"],
-    telegramChannels: ["@ehsandevv", "@JustCoffeeAndMe", "@gymppp"],
-    weirdFact: "Everyone can work for 12 hours, but not everyone can study for 12 hours.",
-    tryThisAtHome: "sudo rm -rf /"
+    languages: [".js(7x)", ".java(6x)", ".py(4x)", ".cpp(1x)"],
   },
 };
 ```
