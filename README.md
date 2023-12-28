@@ -1,9 +1,10 @@
-<!-- ![header image](media_362920622875521726_1693828128%20-%20Copy.jpg) -->
+![header image](Header.png)
 
-
+<!--
 ```math
 Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
 ``` 
+-->
 ```js
 const response = {
   status: 202,
