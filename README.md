@@ -12,7 +12,9 @@ const response = {
     fullName: "Ehsan Shahbazi",
     birthDay: "2002 January 21, Monday",
     university: "Computer Engineering Tabriz",
-    languages: [".js(7x)", ".java(6x)", ".py(4x)", ".cpp(1x)"],
+    hobbies: ["music", "book", "movie", "gym", "podcast"],
+    languages: [".js(8x)", ".java(7x)", ".py(4x)", ".cpp(1x)"],
+    quote: "Do something that makes people's lives easier."
   },
 };
 ```
