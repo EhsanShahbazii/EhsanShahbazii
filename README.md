@@ -24,7 +24,7 @@ const response = {
 [![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.linkedin.com/in/ehsan-shahbazi-848206225) 
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320232a.svg?style=for-the-badge&logo=kaggle&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.kaggle.com/ehsanshahbazii) 
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://stackoverflow.com/users/20102950/ehs4n) 
-[![castbox](https://img.shields.io/badge/castbox-%2320232a.svg?style=for-the-badge&logo=castbox&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://castbox.fm/vua/28325197) 
+[![castbox](https://img.shields.io/badge/castbox-%2320232a.svg?style=for-the-badge&logo=castbox&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://castbox.fm/va/5439580) 
 
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
