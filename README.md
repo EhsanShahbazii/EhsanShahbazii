@@ -1,4 +1,4 @@
-# با ⭐ دادن به ریپو  Quera-Problem-Solutions منو شادتر کنید. 😃
+# با ⭐ دادن به ریپو  [Quera Problem Solutions](https://github.com/EhsanShahbazii/Quera-Problem-Solutions) منو شادتر کنید. 😃
 
 ![header image](Header.gif)
 
