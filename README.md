@@ -38,6 +38,7 @@ const response = {
 [![castbox](https://img.shields.io/badge/castbox-%2320232a.svg?style=for-the-badge&logo=castbox&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://castbox.fm/va/5439580) 
 [![medium](https://img.shields.io/badge/medium-%2320232a.svg?style=for-the-badge&logo=medium&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://medium.com/@ehsan_shahbazi) 
 [![coursera](https://img.shields.io/badge/coursera-%2320232a.svg?style=for-the-badge&logo=coursera&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.coursera.org/user/08f60a7ea57fc3034db6784c956fc43d) 
+[![Skype](https://img.shields.io/badge/skype-%2320232a.svg?style=for-the-badge&logo=Skype&logoColor=white?url=https://codepen.io/ehsanshahbazii)](http://join.skype.com/invite/MKC6cRncYViX) 
 [![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://discordapp.com/users/831590366967890002) 
 [![virgool](https://img.shields.io/badge/virgool-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://virgool.io/@ehsanshahbazii) 
 
@@ -48,6 +49,3 @@ const response = {
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanshahbazii&show_icons=true&locale=en" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanshahbazii" /></p> -->
-
-
-http://join.skype.com/invite/MKC6cRncYViX
