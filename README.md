@@ -1,7 +1,3 @@
-<!--
-# با ⭐ دادن به ریپو  [Quera Problem Solutions](https://github.com/EhsanShahbazii/Quera-Problem-Solutions) منو شادتر کن. 😃
--->
-
 ```math
 Stirlings\ Approximation:\ n!=\sqrt{2\pi n}(\frac{n}{e})^{n}(1+\theta (\frac{1}{n}))
 ```
@@ -21,8 +17,8 @@ const response = {
     fullName: "Ehsan Shahbazi",
     birthDay: "2002 January 21, Monday",
     university: "Computer Engineering Tabriz",
-    hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
-    languages: [".java(4x)", ".js(3x)", ".py(3x)", ".cpp(1x)"],
+    hobbies: ["podcast", "book", "hiking", "cycling", "web scraping"],
+    languages: [".java(5x)", ".py(4x)", ".js(3x)", ".php(1x)", "cpp(1x)"],
     quote: "Do something that makes people's lives easier.",
     currently: STUDING_FOR_MS_EXAMINATION
   },
@@ -38,9 +34,9 @@ const response = {
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://stackoverflow.com/users/15362009/ehsan-shahbazi) 
 [![castbox](https://img.shields.io/badge/castbox-%2320232a.svg?style=for-the-badge&logo=castbox&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://castbox.fm/va/5439580) 
 [![medium](https://img.shields.io/badge/medium-%2320232a.svg?style=for-the-badge&logo=medium&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://medium.com/@ehsan_shahbazi) 
-[![coursera](https://img.shields.io/badge/coursera-%2320232a.svg?style=for-the-badge&logo=coursera&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.coursera.org/user/08f60a7ea57fc3034db6784c956fc43d) 
+[![coursera](https://img.shields.io/badge/coursera-%2320232a.svg?style=for-the-badge&logo=coursera&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.coursera.org/user/08f60a7ea57fc3034db6784c956fc43d) <!--
 [![Skype](https://img.shields.io/badge/skype-%2320232a.svg?style=for-the-badge&logo=Skype&logoColor=white?url=https://codepen.io/ehsanshahbazii)](http://join.skype.com/invite/MKC6cRncYViX) 
-[![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://discordapp.com/users/831590366967890002) 
+-->[![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://discordapp.com/users/831590366967890002) 
 [![virgool](https://img.shields.io/badge/virgool-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://virgool.io/@ehsanshahbazii) 
 
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
