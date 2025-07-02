@@ -1,6 +1,6 @@
 درس این زندگی از بهر ندانستن ماست / این همه درس بخوانیم و ندانیم که چه
 
-```
+```JavaScript
 const MyInformation = {
   status: 200,
   readOnly: true,
