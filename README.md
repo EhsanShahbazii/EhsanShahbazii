@@ -14,7 +14,7 @@ const MyInformation = {
     favMovie: "Mr.Robot",
     currentJob: "Front-End Developer",
     education: "Computer Engineering Tabriz_University.",
-    skillsIn: "Java, C++, Python, Js, ReactJs & Django ...",
+    skillsIn: "Java, C++, Python, Js, ReactJs ...",
     enjoyWith: "Books, GYM, Music, Movie, Black Hole, Codes, Algorithms & Geometry.",
     socialMedia: "GitHub, Codepen, LinkedIn, Instagram, Telegram, Twitter, WhatsApp, StackOverFlow"
   },
