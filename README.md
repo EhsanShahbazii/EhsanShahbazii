@@ -16,7 +16,7 @@ const MyInformation = {
     education: "Computer Engineering Tabriz_University.",
     skillsIn: "Java, C++, Python, Js, ReactJs ...",
     enjoyWith: "Books, GYM, Music, Movie, Black Hole, Codes, Algorithms & Geometry.",
-    socialMedia: "GitHub, Codepen, LinkedIn, Instagram, Telegram, Twitter, WhatsApp, StackOverFlow"
+    socialMedia: "GitHub, Codepen, StackOverFlow, LinkedIn, Twitter, Instagram, Telegram, WhatsApp"
   },
 };
 ```
