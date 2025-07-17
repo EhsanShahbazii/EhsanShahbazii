@@ -5,7 +5,7 @@ const MyInformation = {
   result: {
     nickName: "</Ctrl+Z>",
     name: "Ehsan Shahbazi",
-    birthDate: "13**/11/01",
+    birthDate: "20**/01/21",
     liveIn: "Tabriz, Iran",
     AsciiCode: "137",
     favQuotes: "if you want peace, prepare to wars.",
