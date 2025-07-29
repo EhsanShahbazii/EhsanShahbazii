@@ -2,6 +2,7 @@
 const MyInformation = {
   status: 200,
   readOnly: true,
+  valType: "Object",
   result: {
     nickName: "</Ctrl+Z>",
     name: "Ehsan Shahbazi",
