@@ -1,3 +1,4 @@
+
 ```JavaScript
 const MyInformation = {
   status: 200,
