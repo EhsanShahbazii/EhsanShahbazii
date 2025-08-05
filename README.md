@@ -3,21 +3,13 @@
 const MyInformation = {
   status: 200,
   readOnly: true,
-  valType: "Object",
   result: {
     nickName: "</Ctrl+Z>",
     name: "Ehsan Shahbazi",
     birthDate: "20**/01/21",
-    liveIn: "Tabriz, Iran",
-    AsciiCode: "137",
+    liveIn: "Earth",
     favQuotes: "if you want peace, prepare to wars.",
-    favGames: "Apex Legends, Call of Duty",
-    favMovie: "Mr.Robot",
-    currentJob: "Front-End Developer",
-    education: "Computer Engineering Tabriz_University",
-    skillsIn: "Java, Python, Java Script, ReactJs ... (C++ elementary)",
-    lovelyLib: "Three.js",
-    enjoyWith: "Books, Black Hole, Codes, Algorithms & Geometry."
+    skillsIn: "Java, *****, Java Script, notepad ...
   },
 };
 ```
