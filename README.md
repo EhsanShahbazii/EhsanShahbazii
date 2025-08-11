@@ -15,7 +15,7 @@ const MyInformation = {
 ```
 
 [![CodePen](https://img.shields.io/badge/codepen-%2320232a.svg?style=for-the-badge&logo=codepen&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://codepen.io/ehsanshahbazii) 
-[![Quera](https://img.shields.io/badge/quera-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://quera.org/profile/Ehsan_Shahbazi)
+[![Quera](https://img.shields.io/badge/quera-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://quera.org/profile/Ehsan_Shahbazi)
 [![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.linkedin.com/in/ehsan-shahbazi-848206225) 
 [![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/async137) 
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
