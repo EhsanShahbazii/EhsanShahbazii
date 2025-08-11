@@ -9,7 +9,7 @@ const MyInformation = {
     birthDate: "20**/01/21",
     liveIn: "Earth",
     favQuotes: "if you want peace, prepare to wars.",
-    skillsIn: "Java, *****, Java Script, notepad ...
+    skillsIn: "Java, *****, Java Script, notepad ..."
   },
 };
 ```
