@@ -6,6 +6,7 @@ const MyInformation = {
   result: {
     nickName: "</Ctrl+Z>",
     name: "Ehsan Shahbazi",
+    oops: "JS = Just Sleep",
     birthDate: "20**/01/21",
     liveIn: "Earth",
     favQuotes: "if you want peace, prepare to wars.",
