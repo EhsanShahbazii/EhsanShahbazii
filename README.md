@@ -1,5 +1,5 @@
 
-![](GhsbFog-breaking-bad-wallpaper.jpg)
+![](wp4507684-mr-robot-wallpapers.jpg)
 ```JavaScript
 const MyInformation = {
   status: 200,
