@@ -1,5 +1,5 @@
 
-![](wp4507684-mr-robot-wallpapers.jpg)
+![](16-7.webp)
 ```JavaScript
 const MyInformation = {
   status: 200,
