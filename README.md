@@ -1,5 +1,5 @@
 
-![](VID_20230118_174220.gif)
+![](1.jpg)
 ```JavaScript
 const MyInformation = {
   status: 200,
