@@ -1,18 +1,8 @@
 ```JavaScript
 const MyInformation = {
-  status: 200,
+  status: 404,
   readOnly: true,
-  result: {
-    nickName: "</Ctrl+Z>",
-    name: "Ehsan Shahbazi",
-    oops: "JS = Just Sleep",
-    birthDate: "20**/01/21",
-    liveIn: "Earth",
-    favQuotes: "if you want peace, prepare to wars.",
-    skillsIn: "Java, JavaScript, ReactJS ...",
-    otherSkills: "JavaFX, SCSS, BootStrap, MUI, ...",
-    learning: "...MERN"
-  },
+  result: {},
 };
 ```
 
