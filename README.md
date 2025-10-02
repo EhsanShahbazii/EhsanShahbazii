@@ -1,8 +1,7 @@
 ```JavaScript
-const MyInformation = {
+const Data = {
   status: 404,
-  readOnly: true,
-  result: {},
+  date: 2023/2/14,
 };
 ```
 
