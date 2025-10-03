@@ -12,3 +12,4 @@ const Data = {
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
 
+https://github.com/javascript-tutorial/fa.javascript.info/blob/master/9-regular-expressions/01-regexp-introduction/article.md
