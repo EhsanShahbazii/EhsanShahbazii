@@ -6,6 +6,7 @@ const response = {
   status: 202,
   data: {
     name: "Ehsan Shahbazi",
+    nickname: "</Ctrl+Z>",
     birthDay: "21 Jan",
     skills: "Java, JS, React, node, ...",
     university: "CE Tabriz",
