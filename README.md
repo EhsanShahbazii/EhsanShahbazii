@@ -1,7 +1,7 @@
 ```math
 Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
 ```
-```JavaScript
+```js
 const response = {
   status: 202,
   data: {
@@ -20,7 +20,5 @@ const response = {
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
 
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanshahbazii&show_icons=true&locale=en" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanshahbazii&show_icons=true&locale=en" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanshahbazii" /></p> -->
