@@ -8,7 +8,7 @@ const response = {
     name: "Ehsan Shahbazi",
     nickname: "</Ctrl+Z>",
     birthDay: "21 Jan",
-    skills: "just simple js",
+    skills: "js & py",
     university: "CE Tabriz",
   }
 };
