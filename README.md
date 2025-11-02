@@ -18,7 +18,6 @@ const response = {
     weirdFact: "Everyone can work for 12 hours, but not everyone can study for 12 hours.",
     tryThisAtHome: "sudo rm -rf /"
   },
-  aliveTime: 189216000
 };
 ```
 [![Quera](https://img.shields.io/badge/quera-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://quera.org/profile/Ehsan_Shahbazi)
