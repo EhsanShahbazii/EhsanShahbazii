@@ -1,4 +1,4 @@
-![header image](Header.png)
+![header image](Header.gif)
 
 <!--
 ```math
