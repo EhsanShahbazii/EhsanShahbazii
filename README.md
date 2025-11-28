@@ -1,12 +1,14 @@
-# با ⭐ دادن به ریپو  [Quera Problem Solutions](https://github.com/EhsanShahbazii/Quera-Problem-Solutions) منو شادتر کن. 😃
-
-![header image](Header.gif)
-
 <!--
+# با ⭐ دادن به ریپو  [Quera Problem Solutions](https://github.com/EhsanShahbazii/Quera-Problem-Solutions) منو شادتر کن. 😃
+-->
+
+
+
 ```math
 Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
 ``` 
--->
+![header image](Header.gif)
+
 ```js
 const response = {
   status: 202,
