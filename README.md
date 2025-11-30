@@ -38,6 +38,7 @@ const response = {
 [![medium](https://img.shields.io/badge/medium-%2320232a.svg?style=for-the-badge&logo=medium&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://medium.com/@ehsan_shahbazi) 
 [![coursera](https://img.shields.io/badge/coursera-%2320232a.svg?style=for-the-badge&logo=coursera&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.coursera.org/user/08f60a7ea57fc3034db6784c956fc43d) 
 [![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://discordapp.com/users/831590366967890002) 
+[![virgool](https://img.shields.io/badge/virgool-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://virgool.io/@ehsanshahbazii) 
 
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
