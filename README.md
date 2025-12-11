@@ -16,13 +16,13 @@ Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\p
 
 ```js
 const response = {
-  status: 202,
+  status: 200,
   data: {
     fullName: "Ehsan Shahbazi",
     birthDay: "2002 January 21, Monday",
     university: "Computer Engineering Tabriz",
     hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
-    languages: [".java(4x)",".js(3x)", ".py(2x)", ".cpp(1x)"],
+    languages: [".java(4x)", ".js(3x)", ".py(3x)", ".cpp(1x)"],
     quote: "Do something that makes people's lives easier.",
     currently: STUDING_FOR_MS_EXAMINATION
   },
