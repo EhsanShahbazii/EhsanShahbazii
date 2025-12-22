@@ -52,7 +52,9 @@ const response = {
 <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:180px;" />
 </a>
 
+<!--
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+-->
 
 <!-- ![Readme Quotes Ehsan Shahbazi](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin) -->
 
