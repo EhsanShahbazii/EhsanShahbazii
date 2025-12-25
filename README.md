@@ -49,9 +49,11 @@ const response = {
 
 ![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
+<!--
 <a href="http://www.coffeete.ir/ehsan_shahbazi">
 <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:180px;" />
 </a>
+-->
 
 <!--
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
