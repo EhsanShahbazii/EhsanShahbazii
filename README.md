@@ -28,7 +28,7 @@ const response = {
     hobbies: ["podcast", "book", "space", "cycling", "web scraping"],
     languages: [".java(5x)", ".py(4x)", ".js(3x)", ".php(2x)", "cpp(1x)"],
     quote: "Do something that makes people's lives easier.",
-    currently: RESEARCHING_IN_NLP
+    currently: RESEARCHING_IN_AGENTIC_RAG
   },
 };
 ```
