@@ -37,7 +37,7 @@ const response = {
 [![CodeForces](https://img.shields.io/badge/codeforces-%2320232a.svg?style=for-the-badge&logo=codeforces&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://codeforces.com/profile/Ehsan_Shahbazi) 
 [![CodePen](https://img.shields.io/badge/codepen-%2320232a.svg?style=for-the-badge&logo=codex&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://codepen.io/ehsanshahbazii) 
 [![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.linkedin.com/in/ehsanshahbazi) 
-[![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/ehsandevv) 
+[![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/my_neuralnotes) 
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320232a.svg?style=for-the-badge&logo=kaggle&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.kaggle.com/ehsanshahbazii) 
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-%2320232a.svg?style=for-the-badge&logo=stackoverflow&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://stackoverflow.com/users/20102950/ehs4n)
 [![castbox](https://img.shields.io/badge/castbox-%2320232a.svg?style=for-the-badge&logo=castbox&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://castbox.fm/va/5439580) 
